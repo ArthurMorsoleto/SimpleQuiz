@@ -1,0 +1,34 @@
+[
+  {
+    "question": "A linguagem oficial para desenvolvimento Android Nativo pela Google é a Kotlin",
+    "answer": true
+  },
+  {
+    "question": "O processo de publicação do aplicativo na Google Play é gratuito",
+    "answer": false
+  },
+  {
+    "question": "O Brasil possui uma população de quase 210 milhões",
+    "answer": true
+  },
+  {
+    "question": "Flutter é uma dos frameworks de desenvolvimento mobile",
+    "answer": true
+  },
+  {
+    "question": "A linguagem de programação do Flutter é o Dart",
+    "answer": true
+  },
+  {
+    "question": "O Flutter possui interoperabilidade e pode ter projetos em Java e Dart",
+    "answer": false
+  },
+  {
+    "question": "React-Native é uma plataforma para desenvolvimento de aplicativos móveis",
+    "answer": true
+  },
+  {
+    "question": "O Kotlin possui interoperabilidade oque possibilita implementar projetos em Java e Kotlin",
+    "answer": true
+  }
+]
